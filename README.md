@@ -32,7 +32,6 @@ The next step is just to create a `config.py` file in the root directory where
 the bot is with the following template:
 
 ```py
-client_id   = '' # your bot's client ID
 token = '' # your bot's token
 carbon_key = '' # your bot's key on carbon's site
 bots_key = '' # your key on bots.discord.pw
